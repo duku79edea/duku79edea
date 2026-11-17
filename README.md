@@ -15,7 +15,7 @@ I'm a passionate Software Engineering student who enjoys learning, building proj
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies that I am learning
 
 ### Programming Languages
 - C
@@ -66,14 +66,6 @@ Some of my areas of interest include:
 - Problem Solving and Algorithms
 
 Check out my repositories to explore my work!
-
----
-
-## 📊 GitHub Statistics
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
