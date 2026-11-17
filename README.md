@@ -1,4 +1,4 @@
-# Hi, I'm Derick Duku 👋
+# Hi, I'm Derich Duku 👋
 
 ### Aspiring Software Engineer | Software Engineering Student | Tech Enthusiast
 
@@ -71,8 +71,8 @@ Check out my repositories to explore my work!
 
 ## 🤝 Connect With Me
 
-- **GitHub:** [@YOUR_GITHUB_USERNAME](https://github.com/duku79edea)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/feed/)
+- **GitHub:** [@duku79edea](https://github.com/duku79edea)
+- **LinkedIn:** [LINKEDIN](https://www.linkedin.com/feed/)
 
 ---
 
