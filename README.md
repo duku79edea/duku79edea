@@ -2,20 +2,16 @@
 
 ### Aspiring Software Engineer | Software Engineering Student | Tech Enthusiast
 
-Welcome to my GitHub profile!
-
-I'm a passionate Software Engineering student who enjoys learning, building projects, solving problems, and exploring new technologies. I believe in continuous learning and using technology to create solutions that make a difference.
+I'm a Software Engineering student passionate about technology, problem-solving, and building software solutions.
 
 - 🎓 Pursuing a Bachelor's Degree in Software Engineering at **INES University Rwanda**.
-- 💻 Advancing my software development skills at **The Gym Rwanda**.
-- 🌱 Currently strengthening my programming and software engineering fundamentals.
-- 🔭 Building projects and exploring modern software development technologies.
-- 🎯 Goal: Become a skilled Software Engineer and build impactful software solutions.
-- ⚡ Fun fact: I enjoy turning ideas into code and learning how things work behind the scenes.
+- 💻 Advancing my development skills at **The Gym Rwanda**.
+- 🌱 Continuously learning and exploring new technologies.
+- 🚀 Aspiring to build impactful software solutions.
 
 ---
 
-## 🛠️ Technologies that I am learning
+## 🛠️ Technologies That I Am Learning
 
 ### Programming Languages
 - C
@@ -44,7 +40,6 @@ I'm a passionate Software Engineering student who enjoys learning, building proj
 ---
 
 ## 📚 Currently Learning
-
 - Advanced JavaScript
 - React Development
 - Backend Development with Node.js and Express
@@ -56,16 +51,15 @@ I'm a passionate Software Engineering student who enjoys learning, building proj
 
 ## 🚀 Projects
 
-I use this space to document my learning journey, showcase my projects, and share what I build.
+I use this space to showcase my projects, document my learning journey, and share what I build.
 
-Some of my areas of interest include:
-
+**Areas of Interest:**
 - Web Application Development
 - Backend API Development
 - Database Management Systems
 - Problem Solving and Algorithms
 
-Check out my repositories to explore my work!
+Feel free to explore my repositories!
 
 ---
 
@@ -80,6 +74,6 @@ Check out my repositories to explore my work!
 
 > Great software is built through curiosity, consistency, continuous learning, and a willingness to solve problems.
 
-**Thanks for visiting my profile! Feel free to explore my repositories and connect with me.**
+**Thanks for visiting my profile!**
 
 ⭐ Keep learning. Keep building. Keep growing.
